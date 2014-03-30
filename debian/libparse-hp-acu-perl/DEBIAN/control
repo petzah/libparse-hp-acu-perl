@@ -1,0 +1,13 @@
+Package: libparse-hp-acu-perl
+Version: 0.03-1
+Architecture: all
+Maintainer: Peter Záhradník <peter.zahradnik@znik.sk>
+Installed-Size: 59
+Depends: perl
+Section: perl
+Priority: optional
+Homepage: https://metacpan.org/release/Parse-HP-ACU
+Description: parse the output of HP's hpacucli utility
+ (no description was found)
+ .
+ This description was automagically extracted from the module by dh-make-perl.

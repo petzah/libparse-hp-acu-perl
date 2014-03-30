@@ -1,0 +1,2 @@
+version=3
+https://metacpan.org/release/Parse-HP-ACU   .*/Parse-HP-ACU-v?(\d[\d.-]*)\.(?:tar(?:\.gz|\.bz2)?|tgz|zip)$
