@@ -1,0 +1,17 @@
+Description: update README file
+ Updated README file with link to debian binary
+ .
+ libparse-hp-acu-perl (0.03-1) unstable; urgency=low
+ .
+   * Initial Release.
+Author: Peter Záhradník <peter.zahradnik@znik.sk>
+
+--- libparse-hp-acu-perl-0.03.orig/README
++++ libparse-hp-acu-perl-0.03/README
+@@ -53,3 +53,6 @@ by the Free Software Foundation; or the
+ 
+ See http://dev.perl.org/licenses/ for more information.
+ 
++======================================================================
++
++You can find debian binary on https://znik.sk/deb/pool/

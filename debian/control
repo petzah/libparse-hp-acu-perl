@@ -11,5 +11,5 @@ Package: libparse-hp-acu-perl
 Architecture: all
 Depends: ${misc:Depends}, ${perl:Depends}
 Description: parse the output of HP's hpacucli utility
- .
- Parses the output of HP's hpacucli utility to allow programmatic access to the RAID configuration information provided by the hpacucli utility on HP ProLiant servers.
+ Parses the output of HP's hpacucli utility to allow programmatic access to the RAID 
+ configuration information provided by the hpacucli utility on HP ProLiant servers.
